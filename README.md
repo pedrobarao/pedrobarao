@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá, meu nome é Pedro Barão e sou um entusiasta do desenvolvimento de software bem feito. Atuo como engenheiro de software por mais de 10 anos e a cada dia percebo que há muito mais a aprender.
   Nos últimos anos tenho desenvolvido aplicações em .NET (💌), Node.js e estou sempre buscando conhecer um pouco mais sobre a cultura DevOps visando agilidade em minhas entregas.
-  Atualmente sou Desenvolvedor de Software Senior na [Compass UOL](https://compass.uol/) e estou cursando uma pós-graduação em Arquitetura de Sofwtare na [FIAP](https://www.fiap.com.br/). 
+  Atualmente sou Desenvolvedor de Software Senior na <a href="https://compass.uol/">Compass UOL</a> e estou cursando uma pós-graduação em Arquitetura de Sofwtare na [FIAP](https://www.fiap.com.br/). 
 </p>
 
 <p align="left">
