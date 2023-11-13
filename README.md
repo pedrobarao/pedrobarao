@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é Pedro Barão e sou um entusiasta do desenvolvimento de software bem feito. Atuo como engenheiro de software por mais de 10 anos e a cada dia entendo que há muito mais a aprender.
+  Olá, meu nome é Pedro Barão e sou um entusiasta do desenvolvimento de software bem feito. Atuo como engenheiro de software por mais de 10 anos e a cada dia percebo que há muito mais a aprender.
   Nos últimos anos tenho desenvolvido aplicações em .NET (💌), Node.js e estou sempre buscando conhecer um pouco mais sobre a cultura DevOps visando agilidade em minhas entregas.
+  Atualmente sou Desenvolvedor de Software Senior na **Compass UOL** e estou cursando uma pós-graduação em Arquitetura de Sofwtare na **FIAP**. 
 </p>
 
 <p align="left">
