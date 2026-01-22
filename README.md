@@ -1,19 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Meu nome é Pedro Barão e sou um entusiasta do desenvolvimento de software bem feito. Atuo como engenheiro de software por mais de 10 anos e a cada dia percebo que há muito mais a aprender.
-  Nos últimos anos tenho desenvolvido aplicações em .NET (💌), Node.js e estou sempre buscando conhecer um pouco mais sobre a cultura DevOps visando agilidade em minhas entregas.
-  Atualmente sou Desenvolvedor de Software Senior na <a href="https://compass.uol/">Compass UOL</a>. 
-</p>
-
-<p align="left">
-  💌 Vamos nos conectar? ⤵️
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedro.barao.dev@gmail.com" /></a>
-
-  <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-barao/" /></a>
-</p>
+Sou Engenheiro de Software Sênior, com atuação focada na evolução de plataformas consolidadas e no desenvolvimento de sistemas distribuídos modernos, projetados para ambientes de alta criticidade. Trabalho no desenho de arquiteturas que equilibram estabilidade, inovação e escalabilidade, sempre alinhadas aos objetivos do negócio. Minha principal base técnica está no ecossistema .NET e em Cloud Computing (Azure e GCP).
+Atuo de forma estratégica ao longo de todo o ciclo de vida do software, participando de decisões arquiteturais, system design e definição de padrões que impactam diretamente a confiabilidade, performance e custo operacional das plataformas. Tenho experiência sólida com Microservices, Event-Driven Architecture, APIs REST, CI/CD, Kubernetes, Docker e práticas DevOps e Agile, aplicadas a sistemas de missão crítica.
+Mais do que entregar código, meu foco está em construir soluções que evoluam bem ao longo do tempo, reduzam riscos técnicos e permitam que os times operem com segurança e previsibilidade. Atuo próximo aos times e stakeholders, apoiando tomadas de decisão técnicas, padronização, mentoria e o alinhamento entre tecnologia e estratégia de negócio.
+Tenho interesse em desafios técnicos e estratégicos complexos, onde seja possível influenciar decisões de longo prazo, elevar o nível técnico dos sistemas e gerar impacto real e mensurável. Fico aberto a conexões e conversas sobre Engenharia de Software, Arquitetura de Sistemas Distribuídos e Cloud.
